@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '25396'
     url: http://www.gutenberg.org/2009/agents/25396
     wikipedia: https://en.wikipedia.org/wiki/John_Schoenherr
+covers:
+- cover_type: archival
+  image_path: 72147-h/images/cover.jpg
 creator:
   author:
     agent_name: Garrett, Randall
@@ -26,6 +29,8 @@ creator:
     - https://en.wikipedia.org/wiki/Randall_Garrett
     - https://www.gutenberg.org/ebooks/author/53466
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72147#Respectfully-mine
 gutenberg_issued: '2023-11-17'
 identifiers:
   gutenberg: '72147'
